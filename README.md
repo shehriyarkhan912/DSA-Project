@@ -18,7 +18,7 @@ This repository contains implementations of Stack and Queue data structures usin
   # Purpose of the Code:
 The purpose of this project is to implement Stack and Queue data structures using Linked Lists. This implementation helps in understanding the dynamic nature of linked lists while practicing the operations on these data structures.
 
-### Stack
+### Stack :
 A Stack is a data structure that follows the Last In, First Out (LIFO) principle. The main operations are:
 
 `push(data)`: Adds an element to the top of the stack.
@@ -31,7 +31,7 @@ A Stack is a data structure that follows the Last In, First Out (LIFO) principle
 
 `display()`: Displays the elements of the stack.
 
-### Queue
+### Queue :
 A Queue is a data structure that follows the First In, First Out (FIFO) principle. The main operations are:
 
 `enqueue(data)`: Adds an element to the end of the queue.
@@ -47,7 +47,7 @@ A Queue is a data structure that follows the First In, First Out (FIFO) principl
 
 # Time Complexity
 
-### Stack
+### Stack :
 `push(data)`: O(1)
 
 `pop()`: O(1)
@@ -58,7 +58,7 @@ A Queue is a data structure that follows the First In, First Out (FIFO) principl
 
 `display()`: O(n)
 
-### Queue
+### Queue :
 `enqueue(data)`: O(1)
 
 `dequeue()`: O(1)
