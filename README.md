@@ -6,14 +6,21 @@ This repository contains implementations of Stack and Queue data structures usin
 ## How to Run the Program
 
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone https://github.com/shehriyarkhan912/DSA-Project
-   
+```
+2. **Navigate to the directory:**
+```bash
    cd DSA-Project
-   
-   stack.py
-   
+```
+3. **Run the Stack program:**
+```bash
+    stack.py
+```
+4. **Run the Queue program:**
+```bash
    queue.py
+```
   
   # Purpose of the Code:
 The purpose of this project is to implement Stack and Queue data structures using Linked Lists. This implementation helps in understanding the dynamic nature of linked lists while practicing the operations on these data structures.
@@ -69,4 +76,5 @@ A Queue is a data structure that follows the First In, First Out (FIFO) principl
 
 `display()`: O(n
 
-
+# LinkedIn Post 
+https://www.linkedin.com/posts/shehriyar-khan-5b946a1a1_webdevelopment-portfolio-techskills-activity-7286366999184560130-4iZ3?utm_source=share&utm_medium=member_desktop
